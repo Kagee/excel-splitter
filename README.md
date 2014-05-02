@@ -7,7 +7,7 @@ excel-splitter
 * mvn package
 * java -jar <path til excelsplit-1.0-SNAPSHOT-jar-with-dependencies.jar>
 
-Missing code around line 142  and 149 in ES.java
+Missing code around line 142  and 149 in ES.java (no data are actually copied to new files)
 
 * Konfigured for .xslx
  * For .xsl (.xls? ), change xsls to xsl in filenames, 
